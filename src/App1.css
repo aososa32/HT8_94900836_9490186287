@@ -1,0 +1,9 @@
+/* En App.css o un archivo CSS personalizado */
+.background {
+    background-image: url('/catalogo-de-productos/public/Screen.jpg'); /* Reemplaza con la ruta correcta a tu imagen */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Para mantener el fondo fijo mientras se desplaza la página */
+    /* Puedes agregar más propiedades de estilo según tus preferencias */
+  }
+  
